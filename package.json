@@ -1,0 +1,17 @@
+{
+  "name": "user-inactivity-tracker",
+  "version": "1.0.0",
+  "description": "A library to perform actions after a user has been inactive for a specified amount of time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user",
+    "inactivity",
+    "timeout",
+    "tracker"
+  ],
+  "author": "Hedi AYARI",
+  "license": "MIT"
+}
